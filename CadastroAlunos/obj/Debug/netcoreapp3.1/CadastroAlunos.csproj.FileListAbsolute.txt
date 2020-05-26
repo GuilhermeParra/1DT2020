@@ -1,0 +1,13 @@
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.exe
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.deps.json
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.dll
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.csprojAssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.dll
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\1DT2020\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.genruntimeconfig.cache
